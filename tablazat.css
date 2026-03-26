@@ -115,4 +115,14 @@ body {
 }
 h2 {
     text-align: center;
+    font-weight: bold;
+    letter-spacing: 2pt;
+}
+aside h2 {
+  font-style: italic;
+  text-align: left;
+}
+a:hover {
+  color: antiquewhite;
+  background-color: black;
 }
